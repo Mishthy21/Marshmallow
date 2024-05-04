@@ -1,6 +1,6 @@
 # Team-Diamonds
 <div style="text-align:center; border: 1px solid black; padding: 5px;">
-    <img src="https://s26.q4cdn.com/755441662/files/images/our_brands/DDtag_black.png" alt="picture" alt="picture" width="700"/>
+    <img src="https://s26.q4cdn.com/755441662/files/images/our_brands/DDtag_black.png" alt="picture" alt="picture" width="500"/>
 </div>
 
 
