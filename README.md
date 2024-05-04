@@ -1,5 +1,8 @@
 # Team-Diamonds
-<img src="https://s26.q4cdn.com/755441662/files/images/our_brands/DDtag_black.png" alt="picture" width="700"/>
+<div style="text-align:center">
+    <img src="https://s26.q4cdn.com/755441662/files/images/our_brands/DDtag_black.png" alt="picture" alt="picture" width="500"/>
+</div>
+
 
 
 
